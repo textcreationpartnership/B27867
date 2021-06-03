@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments vnspotted-bitch in answer to Prince Roberts dog called Boy and his malignant she-monkey.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27867</idno><idno type="EEBO-CITATION">12141895</idno>
+  <idno type="VID">197096</idno>
+  <idno type="EEBO-PROQUEST">2240945214</idno>
+  
+            <idno type="STC">Wing P526</idno>
+            <idno type="OCLC">12141895</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197096)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E92, no 13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments vnspotted-bitch in answer to Prince Roberts dog called Boy and his malignant she-monkey.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Iackson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anti-royalist satire in the guise of an answer to An exact description of Prince Rupert's malignant she-monkey, 1643 and Observations upon Prince Rupert's white dogge called Boye, 1643.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term type="uniform_title">Exact description of Prince Rupert's malignant she-monkey.</term>
+               <term type="uniform_title">Observations upon Prince Rupert's white dogge called Boye.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197096:1"/>
+            <p> THE PARLIAMENTS VNSPOTTED-BITCH: In Answer To Prince ROBERTS Dog called <hi>Boy,</hi> And his Malignant She-Monkey.</p>
+            <figure>
+               <figDesc>a dog</figDesc>
+            </figure>
+            <p>London, Printed for <hi>R. Iackson.</hi> 1643.</p>
+            <pb facs="tcp:197096:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197096:2"/>
+            <head>The Parliaments unspotted Bitch: In Answer To Prince <hi>Roberts</hi> Dog called <hi>Boy,</hi> and his Malignant She-Monkey.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliaments Bitch is of such an ex<g ref="char:EOLhyphen"/>cellent shape and proportion, that the most witty inventions cannot ima<g ref="char:EOLhyphen"/>gine a thing of a more sweet and per<g ref="char:EOLhyphen"/>fect feature, being beautifull in co<g ref="char:EOLhyphen"/>lour and absolute in all the linea<g ref="char:EOLhyphen"/>ments of her body; so that she seems to be a statue cut out in unspotted Alablaster by some cu<g ref="char:EOLhyphen"/>rious workman, and doth in this exceed their exact imi<g ref="char:EOLhyphen"/>tations, in that she doth live and breath, whereas the other are but dead Images. And to her comely body she hath as handsome conditions, not dogged and currish qualities; besides that she may be uncapable of generation, and ne<g ref="char:EOLhyphen"/>ver bring forth such untutoured puppies as Prince <hi>Roberts</hi> Dog is, she hath had her concupiscence taken from her, and is indeed a spaid Bitch: but a very loving and well af<g ref="char:EOLhyphen"/>fected worme to the Parliament, and if she could speak or write it is no doubt but she would answer those two Ma<g ref="char:EOLhyphen"/>lignants Prince <hi>Roberts</hi> white Dog, and his wanton Monkey in this or the like manner following;</p>
+            <div type="response">
+               <head>
+                  <hi>Her Answer to Prince</hi> Roberts <hi>white Dog.</hi>
+               </head>
+               <p>Grumbling Sir or counterfeit Lapland Lady I admire
+<pb facs="tcp:197096:3"/> thy impudence in calling thy self a Lady: Art thou a Lady and hast so much haire between thy legs and every where else? thou wouldst be a rough bed fellow for the Divell himself; if thou art not a Divell thy self, thou hast conditions sutable, to thy shape for thou doest snarle and bite at the Parliament, and hast learnt that quality from other Popish dogs, good thou canst do none to the Prince for that is contrary to the nature of a Witch, which in some respects thou unjustly doest assume, but in other conditions most fitly, for a Witch will dine or suppe with a roasted crab squittering in the fire, or with a few boild Onions, and a draught of Buttermilke which one of her neighbours gave her for fear more then for love, but thou doest fare most deliciously of the rumps and wings of Capons and kidneys and art indeed better fed then taught. Besides a Witch will lie upon an old straw bed with her house Cat which seems instead of her bedfellow. But the Kings chair of state &amp; all the embroydered velvet stools are thy day couches, where thou lyest and sleepest with thy malignant eyes half open, and canst winke at small and great faults as thou doest see occasion. But then thou art a Witch again in some conditions, for they are over<g ref="char:EOLhyphen"/>grown with ugly gray hair which hangs down about their shoulders, and so art thou <hi>Boy.</hi> Witches are ready to doe mischief, but can do no good, and such are thy malignant qualities <hi>Boy:</hi> and moreover Witches are generally hated of all religious and well affected people, and so art thou <hi>Boy.</hi> Pardon me for though our gracious King loves thee, it is not as thou art a Witch, but as thou art Prince <hi>Roberts</hi> Dog; and for thy Art in finding out conceald goods, I wonder how thou durst say that thou didst discover that plate which my Lord <hi>Say</hi> could not, it is as true as that there is a candle constantly burning in thy breech where<g ref="char:EOLhyphen"/>with
+<pb facs="tcp:197096:3"/> thou lightest thy self every night to bed: you say moreover that the Colledge plate is melted in <hi>New-Hall</hi> Inne; truly I beleeve there is much coyning at <hi>Oxford</hi> and especially of misconstructions against the Parliament: which having the Kings stamp put upon them do run cur<g ref="char:EOLhyphen"/>rant among the Cavaleers, and through the whole coun<g ref="char:EOLhyphen"/>try round about: Now for the languages wherewith this beast is endued, there is as much difference between him and a linguist, as there is between <hi>Bagshot</hi> and <hi>Bowwow;</hi> or speaking, and all his discourse is but a constant lying and fawning exprest by flattering actions, in which discourses his wagging tail speaks more then his mouth doth; and it is the expectation of some dainty bit that whispers him in the eare, and doth make the spirit of this dogged Ani<g ref="char:EOLhyphen"/>mall very pleasant and loving.</p>
+               <p>He neither speaks Hebrew nor Dutch as some doe con<g ref="char:EOLhyphen"/>ceave, but all his language is <hi>quià nunc</hi> do you grumble, and it is most certain that his stinking breath dwels round about Oxford; the curs infectious vapour is the cause (as some conjecture) that the plague is now there.</p>
+               <p>For his Logick he has no reason to dispute withall, and had rather chop up a good pudding then chop Logick amongst the Sophisters, yet if he could dispute he would wrangle and bawle extreamly, for he has impudence e<g ref="char:EOLhyphen"/>nough, and if he were put to silence he would blush no more then a black dog: And for his discoveries what can <hi>Boy</hi> doe? indeed he hath a good nose, so that if a sirreve<g ref="char:EOLhyphen"/>rence should by some of the slovenly Guard be laid in Christ-Church Quadrangle, he would quickly smell it out and bewray the matter; for he is very neat in his carri<g ref="char:EOLhyphen"/>age, and when he pisses against a wall he will lift up his leg for fear of spoiling his court stockings.</p>
+               <p>I doe not beleeve that he is weapon proofe; or hath
+<pb facs="tcp:197096:4"/> made his Master Prince <hi>Robert</hi> so, or that poison cannot hurt him, for I do not think but a sound stroke with a whip would make him cry <hi>peccavi;</hi> that is, he would confesse that he had offended against the King and Par<g ref="char:EOLhyphen"/>liament; and besides, the Parliaments Bitch could (if she would be so malicious) bite him so sorely, that he should ever afterward halt of a leg; and indeed I think he is of a poisonous nature himself, and yet let him take heed of wenching, or rather bitchering in <hi>Oxford,</hi> lest the hair of his head, and likewise the hair of his body do fall off be<g ref="char:EOLhyphen"/>fore it come to tanning, and so be compelled to wear a Court Periwig.</p>
+               <p>As for his going between <hi>Oxford</hi> and <hi>London</hi> every week oftner than the three Carriers do, it is in truth a ve<g ref="char:EOLhyphen"/>ry lie, for it is against the nature of a body to be in divers places at once: indeed I beleeve he is a spirit of the But<g ref="char:EOLhyphen"/>tery, and doth often walke there invisible, and make the Scholers of <hi>Oxford</hi> turne all Malignants against the Par<g ref="char:EOLhyphen"/>liament; he leads the Doctors and Proctors in a string as a little dog doth the blinde man here in <hi>London.</hi>
+               </p>
+               <p>Neither did Prince <hi>Robert</hi> disguise himself in so many shapes, like an Appleman at <hi>Dunsmore</hi> heath, like a Net<g ref="char:EOLhyphen"/>seller at <hi>Coventry,</hi> and like an old woman at <hi>Daventry</hi> by the help of <hi>Boy;</hi> for how could he furnish him with Properties, and severall shapes? A dogs leg he could assoon.</p>
+               <p>For his behaviour to others, it is said to be loose and strumpet-like, and therein he is like Prince <hi>Roberts</hi> Mon<g ref="char:EOLhyphen"/>key, whom the Parliaments Bitch shall answer hereafter, and make her grin for anger.</p>
+               <p>For the Princes familiarity with him, it is but for his recreation, not for any affection he bears unto him, as he doth (I warrant you) to a Court Lady, nay, to any country
+<pb facs="tcp:197096:4"/> wench upon a case of necessity; but let him not brag of that, for if he have kift the Prince once, his head hath afterward been twice in the Porridge pot; and when he runs about to smell out <hi>Oxford</hi> Bitches that are full of concupisence, where is his nose then? The King and his children are thought to be very well beloved by <hi>Boy,</hi> but in regard he is a Malignant the Parliament Bitch dare affirme that he cannot love the King, and hate and grumble against the Par<g ref="char:EOLhyphen"/>liament as he and other Popish dogs do.</p>
+               <p>And whereas it is thought that <hi>Boy</hi> was a malignant against the City petition delivered by six Aldermen, I know and beleeve that he understood nere a word of it, nor knowes any letters but R. whereby he doth expresse his anger when he barkes, and he doth not care whether the King come to White-Hall or not, for where<g ref="char:EOLhyphen"/>soever he is he can but feed daintily &amp; be Prince <hi>Roberts</hi> white <hi>Boy.</hi>
+               </p>
+               <p>As for <hi>London</hi> and the taking thereof, we have dogs enough that will take the Parliaments Bitches side, as <hi>Pepper Tobies</hi> dog, and <hi>Isaacs</hi> dog, and <hi>Greens</hi> dog, and a great many puppie-dogs, and curs that will domineer on their own dunghill, and keep out Prince <hi>Roberts</hi> dog in despite of his teeth; and thus I conclude the answer to Prince <hi>Roberts</hi> dog called <hi>Boy,</hi> advising every one that he is an Imposture, a very juggling <hi>Boy,</hi> and a very cowardly malignant our, though he look like a lion.</p>
+            </div>
+            <div type="response">
+               <head>
+                  <hi>The Answer to Prince</hi> Roberts <hi>Monkey.</hi>
+               </head>
+               <p>I can hardly with any patience vouchsafe an answer to this un<g ref="char:EOLhyphen"/>clean beast this thing composed of nothing but mocking and grin<g ref="char:EOLhyphen"/>ning at her betters, and she forsooth amongst the rest will needs be a malignant, but as she is tied fast with a chaine, so it is not to be doubted but all delinquents and malignants that oppose the Parli<g ref="char:EOLhyphen"/>aments Bitch shall be confined in prisons untill they leave their Monkish qualities, and prove well affected to the orderly proceed<g ref="char:EOLhyphen"/>ings of the Parliament. But how can a Monkey have good condi<g ref="char:EOLhyphen"/>tions since her shape is so ugly, so deformed that she compares her self to I know not what?</p>
+               <pb facs="tcp:197096:5"/>
+               <p> For her Jugling of the pay out of the Parliament souldiers heads, it is well known she can do no such matter, but the Captaines keep it back contrary to the minde of the Parliament: and besides though I beleeve there are Monkeys in the Parliaments Army, yet they are often conicatcht themselves, and cannot deceive poor souldiers of their pay, and Prince <hi>Roberts</hi> Monkey dare not come thither left the Parliaments Bitch should tear her green coat off from her back. She hath indeed many mad tricks whereof she boasts, but why she should be breached for them I know not, if she were ever such a creature as <hi>Tobies</hi> Dog was, there were some reason to bear a little zealous affection towards her; for he was gentle and milde and a good oldmans Dog, but this is a grinning, mocking curst thing and a prophane wretched creature that would bring Prince <hi>Robert</hi> to love nothing but effeminate wantonnesse as her self doth.</p>
+               <p>But I pray what do all her tricks gain her? why nothing but con<g ref="char:EOLhyphen"/>tempt and scorn, the Guard will play with her as boldly as her Ma<g ref="char:EOLhyphen"/>ster, and feele and handle her all over, surely if she had any good<g ref="char:EOLhyphen"/>nesse she would blush and hereafter order her self as d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inurely as if she were a Monkey that had been carryed to <hi>New England,</hi> and now brought over again, for there are such Monkeys now in Eng<g ref="char:EOLhyphen"/>land.</p>
+               <p>Let her never thinke that with her mowing at the Parliament, she can discountenance them and Religion; for they regard Prince <hi>Ro<g ref="char:EOLhyphen"/>berts</hi> dog no more then they do a grumbling Cur, and his Monkey they esteem no more then a Jester, there are greater malignants that must be brought to triall, and then Prince <hi>Roberts</hi> Dog will be taught better manners.</p>
+               <p>Thus you see what the Parliaments Bitch (if she could speak) would answer to Prince <hi>Roberts</hi> Malignant Dog and Monkey, but she being of a modest nature doth earnestly desire that they may be both sent for and punisht as Delinquents, or else that they may hang tell they mend.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
